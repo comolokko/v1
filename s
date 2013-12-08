@@ -1,1 +1,1 @@
-console.log("comolokko v1");
+console.log("comolokko v2");
